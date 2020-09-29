@@ -1,5 +1,5 @@
 # MyBookList
-Sistema de armazenamento de livros  -- Enforma de lista 
+Sistema de armazenamento de livros
 
 Teclogias
 
